@@ -1,0 +1,24 @@
+<html>
+<head>
+</head>
+<body>
+<!--Hi learn some formatting tag-->
+<b>HI am bold</b>
+<br>
+<i>Hi i am italic</i>
+<hr>
+a<sup>2
+<br>
+<hr>
+<small>HIIIIII</small>
+<br>
+<strong>HIIIIII</strong>
+<br>
+<hr>
+<mark>india</mark>
+<br>
+<em>emphasise me</me>
+<br>
+do not<del>do this</del>
+</body>
+</html> 
